@@ -1,0 +1,1 @@
+export type FunctionType = 'square' | 'cubic' | 'sine' | 'cosine' | 'exponential' | 'logarithmic' | 'linear';

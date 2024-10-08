@@ -1,0 +1,14 @@
+{
+  "functionPlotter": "函数绘图器",
+  "functionSelector": "函数选择器",
+  "functionEquation": "函数：{{equation}}",
+  "functions": {
+    "square": "平方函数 (y = ax² + b)",
+    "cubic": "立方函数 (y = ax³ + b)",
+    "sine": "正弦函数 (y = a·sin(x) + b)",
+    "cosine": "余弦函数 (y = a·cos(x) + b)",
+    "exponential": "指数函数 (y = a·e^x + b)",
+    "logarithmic": "对数函数 (y = a·ln|x| + b)",
+    "linear": "线性函数 (y = ax + b)"
+  }
+}

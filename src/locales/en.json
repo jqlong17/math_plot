@@ -1,0 +1,14 @@
+{
+  "functionPlotter": "Function Plotter",
+  "functionSelector": "Function Selector",
+  "functionEquation": "Function: {{equation}}",
+  "functions": {
+    "square": "Square (y = ax² + b)",
+    "cubic": "Cubic (y = ax³ + b)",
+    "sine": "Sine (y = a·sin(x) + b)",
+    "cosine": "Cosine (y = a·cos(x) + b)",
+    "exponential": "Exponential (y = a·e^x + b)",
+    "logarithmic": "Logarithmic (y = a·ln|x| + b)",
+    "linear": "Linear (y = ax + b)"
+  }
+}
